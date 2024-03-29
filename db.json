@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "id": 101,
+      "category": "Islamic Discussion",
+      "title": "After ASR Salat",
+      "description": "After ASR pray Imam disscussed about Islam Quran, Hadith",
+      "location": "Masjid Al-Taufiq, Mosque",
+      "time": "06:30 PM",
+      "petsAllowed":false,
+      "organizer": "Islamic Youth"
+    },
+  ]
+}
